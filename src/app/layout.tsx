@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Linux Commands Reference",
+  title: "🐧 Linux Commands Reference",
   description: "A comprehensive reference for frequently used Linux commands",
 };
 
